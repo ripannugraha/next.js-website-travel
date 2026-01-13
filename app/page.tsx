@@ -1,9 +1,11 @@
-import Image from "next/image";
+import Hero from "@/components/hero/Hero"
+import DestinationSection from "@/components/destination/DestinationSection"
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-blue-500 text-white text-2xl">
-      Next.js + Tailwind berhasil 🚀
-    </div>
-  );
+    <>
+      <Hero />
+      <DestinationSection />
+    </>
+  )
 }
