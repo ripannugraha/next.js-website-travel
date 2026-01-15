@@ -4,6 +4,7 @@ import TestimonialSection from "@/components/testimonial/TestimonialSection"
 import PackageSection from "@/components/packages/PackageSection"
 import AdventureCTA from "@/components/cta/AdventureCTA"
 import BlogSection from "@/components/blog/BlogSection"
+import Newsletter from "@/components/common/Newsletter"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <PackageSection />
       <AdventureCTA />
       <BlogSection />
+      <Newsletter />
     </>
   );
 }
