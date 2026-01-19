@@ -19,7 +19,7 @@ export default function Navbar() {
         {/* MENU */}
         <nav className="hidden md:flex items-center gap-8 font-inter text-sm">
           <a href="#">Beranda</a>
-          <a href="#">Tentang Kami</a>
+          <a href="/tentang-kami">Tentang Kami</a>
           <a href="#">Paket Wisata</a>
           <a href="#">Destinasi</a>
           <a href="#">Artikel</a>
