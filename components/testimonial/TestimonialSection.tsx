@@ -23,21 +23,21 @@ export default function TestimonialSection() {
             quote="Pemandu wisatanya sangat ramah dan berpengalaman. Perjalanan kami terasa nyaman dan terorganisir dengan baik sejak awal hingga akhir."
             name="Handika Nugraha"
             location="Palembang, Sumatera Selatan"
-            image="/assets/dika.JPEG"
+            image="/assets/responden/dika.JPEG"
           />
 
           <TestimonialCard
             quote="Destinasi yang ditawarkan sangat menarik dan sesuai dengan deskripsi. NusaTrip benar-benar membantu kami menikmati liburan tanpa ribet."
             name="Muhammad Alpian"
             location="Bandung, Jawa Barat"
-            image="/assets/pian.JPEG"
+            image="/assets/responden/pian.JPEG"
           />
 
           <TestimonialCard
             quote="Pelayanan cepat dan responsif. Kami mendapatkan pengalaman wisata yang berkesan bersama keluarga."
             name="Muhammad Reyno"
             location="Jakarta"
-            image="/assets/eno.JPEG"
+            image="/assets/responden/eno.JPEG"
           />
 
         </div>
