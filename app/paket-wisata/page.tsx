@@ -2,7 +2,7 @@ import PageHeader from "@/components/paketwisata/PageHeader"
 import ExclusivePackages from "@/components/paketwisata/ExclusivePackages"
 import DestinationGallery from "@/components/paketwisata/DestinationGallery"
 import BlogSection from "@/components/paketwisata/BlogSection"
-import Newsletter from "@/components/paketwisata/Newsletter"
+import Newsletter from "@/components/layout/Newsletter"
 
 export default function TentangKamiPage() {
   return (
