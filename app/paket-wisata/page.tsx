@@ -4,7 +4,7 @@ import DestinationGallery from "@/components/paketwisata/DestinationGallery"
 import BlogSection from "@/components/paketwisata/BlogSection"
 import Newsletter from "@/components/layout/Newsletter"
 
-export default function TentangKamiPage() {
+export default function PaketWisata() {
   return (
     <main>
     <PageHeader />

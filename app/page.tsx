@@ -6,7 +6,7 @@ import AdventureCTA from "@/components/homepage/AdventureCTA"
 import BlogSection from "@/components/homepage/BlogSection"
 import Newsletter from "@/components/layout/Newsletter"
 
-export default function Home() {
+export default function Homepage() {
   return (
     <>
       <Hero />
