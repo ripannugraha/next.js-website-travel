@@ -8,6 +8,7 @@ import Itinerary from "@/components/detailpaketwisata/Itinerary"
 import LocationMap from "@/components/detailpaketwisata/LocationMap"
 import BookingSidebar from "@/components/detailpaketwisata/BookingSidebar"
 import ContactCard from "@/components/detailpaketwisata/ContentCard"
+import Newsletter from "@/components/layout/Newsletter"
 
 export default function DetailPaketWisata() {
   return (
@@ -29,6 +30,7 @@ export default function DetailPaketWisata() {
         <Itinerary />
         <LocationMap />
       </DetailLayout>
+      <Newsletter />
     </main>
   )
 }
