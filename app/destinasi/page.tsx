@@ -1,6 +1,7 @@
 import PageHeader from "@/components/destinasi/PageHeader"
 import DestinationSection from "@/components/destinasi/DestinationSection"
 import InformationBanner from "@/components/destinasi/InformationBanner"
+import TestimonialSection from "@/components/destinasi/TestimonialSection"
 
 export default function Destinasi() {
   return (
@@ -8,6 +9,7 @@ export default function Destinasi() {
     <PageHeader />
     <DestinationSection />
     <InformationBanner />
+    <TestimonialSection />
     </main>
   )
 }
