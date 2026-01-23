@@ -7,14 +7,18 @@ export default function DetailLayout({
 }) {
   return (
     <section className="w-full bg-white py-16">
-      <div className="max-w-[1200px] mx-auto px-6 grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-10">
+      <div className="max-w-[1200px] mx-auto px-6 flex gap-10 items-start">
+
         {/* LEFT CONTENT */}
-        <div>{children}</div>
+        <div className="flex-1 min-w-0">
+          {children}
+        </div>
 
         {/* RIGHT SIDEBAR */}
-        <aside className="relative">
-          <div className="sticky top-24">{sidebar}</div>
+        <aside className="w-[360px] sticky top-[140px] self-start">
+          {sidebar}
         </aside>
+
       </div>
     </section>
   );
