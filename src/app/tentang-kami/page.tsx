@@ -1,7 +1,7 @@
-import Headline from "@/components/tentangkami/Headline"
-import AboutService from "@/components/tentangkami/AboutService"
-import VisionMission from "@/components/tentangkami/VisionMission"
-import TeamGuide from "@/components/tentangkami/TeamGuide"
+import Headline from "@/components/organisms/PageHeader"
+import AboutService from "@/components/organisms/AboutService"
+import VisionMission from "@/components/organisms/VisionMission"
+import TeamGuide from "@/components/organisms/TeamGuide"
 export default function TentangKamiPage() {
   return (
     <main>

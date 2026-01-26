@@ -1,8 +1,8 @@
 import Image from "next/image"
-import Navbar from "../layout/Navbar"
-import HeroInfo from "./HeroBenefits"
+import Navbar from "../organisms/Navbar"
+import HeroInfo from "../organisms/HeroBenefits"
 
-export default function Hero() {
+export default function HeroSection() {
   return (
     <section className="relative w-full">
       <Navbar />

@@ -1,4 +1,4 @@
-import TestimonialCard from "./TestimonialCard"
+import TestimonialCard from "./TestimonialCard1"
 
 export default function TestimonialSection() {
   return (

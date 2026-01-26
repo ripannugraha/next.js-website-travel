@@ -1,8 +1,8 @@
-import PageHeader from "@/components/destinasi/PageHeader"
-import DestinationSection from "@/components/destinasi/DestinationSection"
-import InformationBanner from "@/components/destinasi/InformationBanner"
-import TestimonialSection from "@/components/destinasi/TestimonialSection"
-import Newsletter from "@/components/layout/Newsletter"
+import PageHeader from "@/components/organisms/PageHeader"
+import DestinationSection from "@/components/organisms/DestinationSection"
+import InformationBanner from "@/components/organisms/InformationBanner"
+import TestimonialSection from "@/components/organisms/TestimonialSection"
+import Newsletter from "@/components/organisms/Newsletter"
 
 
 export default function Destinasi() {

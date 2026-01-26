@@ -1,8 +1,8 @@
-import PageHeader from "@/components/paketwisata/PageHeader"
-import ExclusivePackages from "@/components/paketwisata/ExclusivePackages"
-import DestinationGallery from "@/components/paketwisata/DestinationGallery"
-import BlogSection from "@/components/paketwisata/BlogSection"
-import Newsletter from "@/components/layout/Newsletter"
+import PageHeader from "@/components/organisms/PageHeader"
+import ExclusivePackages from "@/components/organisms/ExclusivePackages"
+import DestinationGallery from "@/components/organisms/DestinationGallery"
+import BlogSection from "@/components/organisms/BlogSection"
+import Newsletter from "@/components/organisms/Newsletter"
 
 export default function PaketWisata() {
   return (
