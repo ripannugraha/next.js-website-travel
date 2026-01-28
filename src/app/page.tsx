@@ -2,6 +2,7 @@ import HeroSection from "@/components/sections/home/hero-section"
 import DestinationSection from "@/components/sections/home/destination-section"
 import TestimonialSection from "@/components/sections/home/testimonial-section"
 import PackageSection from "@/components/sections/home/package-section"
+import AdventureCTASection from "@/components/sections/home/adventure-cta."
 
 export default function Homepage() {
   return (
@@ -10,6 +11,7 @@ export default function Homepage() {
       <DestinationSection />
       <TestimonialSection />
       <PackageSection />
+      <AdventureCTASection />
     </main>
   )
 }
