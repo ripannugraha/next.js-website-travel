@@ -5,6 +5,7 @@ import PackageSection from "@/components/sections/home/package-section"
 import AdventureCTASection from "@/components/sections/home/adventure-cta"
 import BlogSection from "@/components/sections/home/blog-section"
 import NewsletterSection from "@/components/sections/home/newsletter-section"
+import FooterSection from "@/components/sections/home/footer-section"
 
 export default function Homepage() {
   return (
@@ -16,6 +17,7 @@ export default function Homepage() {
       <AdventureCTASection />
       <BlogSection />
       <NewsletterSection />
+      <FooterSection />
     </main>
   )
 }
