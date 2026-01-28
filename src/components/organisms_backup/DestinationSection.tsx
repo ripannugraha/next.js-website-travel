@@ -1,4 +1,4 @@
-import DestinationCard from "../molecules/DestinationCard"
+import DestinationCard from "../molecules/destination-card"
 
 export default function DestinationSection() {
   return (

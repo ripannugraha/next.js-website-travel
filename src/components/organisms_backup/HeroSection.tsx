@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Navbar from "../organisms/Navbar"
-import HeroInfo from "../organisms/HeroBenefits"
+import HeroInfo from "../organisms/hero-benefits"
 
 export default function HeroSection() {
   return (

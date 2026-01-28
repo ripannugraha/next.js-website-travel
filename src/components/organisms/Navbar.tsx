@@ -1,7 +1,7 @@
-import Logo from "../atoms/Logo"
-import NavLink from "../molecules/NavLink"
-import DropdownMenu from "../molecules/DropdownMenu"
-import LanguageSwitch from "../molecules/LanguageSwitch"
+import Logo from "@/components/atoms/logo"
+import NavLink from "@/components/molecules/nav-link"
+import DropdownMenu from "@/components/molecules/dropdown-menu"
+import LanguageSwitch from "@/components/molecules/language-switch"
 
 export default function Navbar() {
   return (
